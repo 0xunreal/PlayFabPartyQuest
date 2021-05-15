@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{EDB50CDF-4704-DAA1-6FBA-6593DD6EE901}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "PlayFabPartyQuest",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"WindowsNoEditor"
+	]
+}

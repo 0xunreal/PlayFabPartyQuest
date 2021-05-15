@@ -1,0 +1,29 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "PlayFabParty",
+  "Description": "",
+  "Category": "Other",
+  "CreatedBy": "newtom",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "EnabledByDefault" : true,
+  "CanContainContent": false,
+  "IsBetaVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "PlayFabParty",
+      "Type": "Runtime",
+      "LoadingPhase": "Default",
+      "WhitelistPlatforms": [
+        "Win64",
+        "Win32",
+        "Android"
+      ]
+    }
+  ]
+}
